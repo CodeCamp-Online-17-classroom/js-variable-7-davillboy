@@ -12,3 +12,4 @@ console.log(`I live in ${country}, ${continent}`);
 console.log(`I live in ${country + ', ' + continent}`);
 console.log(`I live in ${'country, continent'}`);"
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
